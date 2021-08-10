@@ -1,1 +1,14 @@
-# Task-6
+Screenshot of the console output immediately after generation of deposit receiver address: https://github.com/awaissaeeed/Task-6/blob/bf3b3647bba0d61dee3723e4704e81bf7fbfc97f/task-6-deposti-layer1.png
+
+
+Deposit Receiver Address: ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5wt6p59sx6kukyjlwh5s467qgp8m25yqqqqqsqqqqqvqqqqqfjqqqqpfetd35j95kv9s7fwg0275r0n0nuvrepyznpy6555rve2yjr4hzk6gqqqqpqqqqqqcqqqqqxyqqqqx7asf60w8pqpte2sfcfn90fdfzxue7ff2g8sawe9wacnqat6jmygqngqqqqpxv9ejjvgz2u63w3l839aadguh5rgtqd4devf97a0fpt4uqsz0k4zdyjwyh980aruu72qa46qq3a2442qwauq9rqgqqqqqqcqk2wnf6
+
+
+Ethereum Address used to generate the deposit receiver address: 0x89A49389729dfd1f39E503b5D0011eAAb5501dDe
+
+
+Etherscan explorer link after successful force bridge transaction: https://rinkeby.etherscan.io/tx/0x61734ca7edab14b1c8c8f207ee4aac56afb633530539b952fde2d35585420c2f
+
+
+Nervos explorer link after successful force bridge transaction: https://explorer.nervos.org/aggron/transaction/0x39cb802fe0aae8422fda12ea9834c0fa1b70f25b47f25d16b1c9e573eaac35dd
+
